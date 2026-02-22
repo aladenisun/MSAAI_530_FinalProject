@@ -34,5 +34,10 @@ Data was recorded in a real home environment and includes background air as well
 6. Predictions and sensor trends are visualized in Tableau
 
 
-## Dashboard Features
-The Tableau dashboard link: https://public.tableau.com/views/AAI530_17716614216890/Summary-AvgSensorLevels?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+## Tableau Public Dashboard
+The Tableau dashboard link: https://public.tableau.com/views/AAI530_17716614216890/SmartHomeAirQualityMonitoring?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link 
+
+## Team Members
+- Rogelio Aguilar
+- Nisun Alade
+- Zinah Othman

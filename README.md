@@ -35,7 +35,7 @@ Data was recorded in a real home environment and includes background air as well
 
 
 ## Tableau Public Dashboard
-The Tableau dashboard link: https://public.tableau.com/views/AAI530_17716614216890/SmartHomeAirQualityMonitoring?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link 
+The Tableau dashboard link: https://public.tableau.com/views/AAI530_17716614216890/SmartHomeGasSensorMonitoringDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 ## Team Members
 - Rogelio Aguilar
